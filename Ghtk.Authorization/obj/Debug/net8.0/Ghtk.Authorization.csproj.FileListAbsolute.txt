@@ -1,0 +1,4 @@
+C:\Users\Victus\source\repos\GhtkApi\Ghtk.Authorization\obj\Debug\net8.0\Ghtk.Authorization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victus\source\repos\GhtkApi\Ghtk.Authorization\obj\Debug\net8.0\Ghtk.Authorization.AssemblyInfoInputs.cache
+C:\Users\Victus\source\repos\GhtkApi\Ghtk.Authorization\obj\Debug\net8.0\Ghtk.Authorization.AssemblyInfo.cs
+C:\Users\Victus\source\repos\GhtkApi\Ghtk.Authorization\obj\Debug\net8.0\Ghtk.Authorization.csproj.CoreCompileInputs.cache

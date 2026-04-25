@@ -1,0 +1,6 @@
+C:\Users\Victus\source\repos\GhtkApi\Ghtk.Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Victus\source\repos\GhtkApi\Ghtk.Api\obj\Debug\net8.0\Ghtk.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victus\source\repos\GhtkApi\Ghtk.Api\obj\Debug\net8.0\Ghtk.Api.AssemblyInfoInputs.cache
+C:\Users\Victus\source\repos\GhtkApi\Ghtk.Api\obj\Debug\net8.0\Ghtk.Api.AssemblyInfo.cs
+C:\Users\Victus\source\repos\GhtkApi\Ghtk.Api\obj\Debug\net8.0\Ghtk.Api.csproj.CoreCompileInputs.cache
+C:\Users\Victus\source\repos\GhtkApi\Ghtk.Api\obj\Debug\net8.0\Ghtk.Api.MvcApplicationPartsAssemblyInfo.cache

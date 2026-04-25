@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Ghtk.Api/Ghtk.Api.csproj" Id="f4534aaf-5a01-49da-b2d0-b3d591e9dcb2" />
+  <Project Path="Ghtk.Authorization/Ghtk.Authorization.csproj" Id="44bd156a-1715-4531-835f-9d2c36c6075d" />
+</Solution>

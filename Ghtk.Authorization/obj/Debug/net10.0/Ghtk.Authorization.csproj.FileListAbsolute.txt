@@ -1,0 +1,12 @@
+C:\Users\Victus\source\repos\GhtkApi\Ghtk.Authorization\bin\Debug\net10.0\Ghtk.Authorization.deps.json
+C:\Users\Victus\source\repos\GhtkApi\Ghtk.Authorization\bin\Debug\net10.0\Ghtk.Authorization.dll
+C:\Users\Victus\source\repos\GhtkApi\Ghtk.Authorization\bin\Debug\net10.0\Ghtk.Authorization.pdb
+C:\Users\Victus\source\repos\GhtkApi\Ghtk.Authorization\obj\Debug\net10.0\Ghtk.Authorization.csproj.AssemblyReference.cache
+C:\Users\Victus\source\repos\GhtkApi\Ghtk.Authorization\obj\Debug\net10.0\Ghtk.Authorization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victus\source\repos\GhtkApi\Ghtk.Authorization\obj\Debug\net10.0\Ghtk.Authorization.AssemblyInfoInputs.cache
+C:\Users\Victus\source\repos\GhtkApi\Ghtk.Authorization\obj\Debug\net10.0\Ghtk.Authorization.AssemblyInfo.cs
+C:\Users\Victus\source\repos\GhtkApi\Ghtk.Authorization\obj\Debug\net10.0\Ghtk.Authorization.csproj.CoreCompileInputs.cache
+C:\Users\Victus\source\repos\GhtkApi\Ghtk.Authorization\obj\Debug\net10.0\Ghtk.Authorization.dll
+C:\Users\Victus\source\repos\GhtkApi\Ghtk.Authorization\obj\Debug\net10.0\refint\Ghtk.Authorization.dll
+C:\Users\Victus\source\repos\GhtkApi\Ghtk.Authorization\obj\Debug\net10.0\Ghtk.Authorization.pdb
+C:\Users\Victus\source\repos\GhtkApi\Ghtk.Authorization\obj\Debug\net10.0\ref\Ghtk.Authorization.dll
