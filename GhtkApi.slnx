@@ -1,4 +1,6 @@
 <Solution>
+  <Project Path="ClientAuthertication.Api/ClientAuthertication.Api.csproj" Id="fdb865e1-9b54-4d82-8c43-f1e7aa05794e" />
+  <Project Path="ClientAuthertication/ClientAuthertication.csproj" Id="6daa2c77-9f92-41aa-909b-8eb2d1a1db16" />
   <Project Path="Ghtk.Api/Ghtk.Api.csproj" Id="f4534aaf-5a01-49da-b2d0-b3d591e9dcb2" />
   <Project Path="Ghtk.Authorization/Ghtk.Authorization.csproj" Id="44bd156a-1715-4531-835f-9d2c36c6075d" />
 </Solution>
