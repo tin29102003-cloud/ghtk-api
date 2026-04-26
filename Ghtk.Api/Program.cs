@@ -14,7 +14,8 @@ namespace Ghtk.Api
             //dăng ký authentication scheme cho xclient
             builder.Services.AddXClientAuthentication(options =>
             {
-                options.ClientSourceValidator = (clientSource) => clientSource == "ghtk"; //cấu hình ClientSourceValidator để xác thực giá trị của header X-Client-Source, ví dụ ở đây chỉ chấp nhận giá trị "trusted-client"
+                options.ClientValidator = (clientSource, token, principle) =>  true; //cấu hình ClientSourceValidator để xác thực giá trị của header X-Client-Source, ví dụ ở đây chỉ chấp nhận giá trị "trusted-client"
+                options.IsseuerSigningKey = builder.Configuration["IsseuerSigningKey"] ?? "";
             });
             var app = builder.Build();
 

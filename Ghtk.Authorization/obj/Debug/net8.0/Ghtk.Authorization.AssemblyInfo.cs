@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ghtk.Authorization")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb945e8c48c9592b8461aea1373e7f2ab1f775d6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ghtk.Authorization")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ghtk.Authorization")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

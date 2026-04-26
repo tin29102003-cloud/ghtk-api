@@ -10,3 +10,4 @@ C:\Users\Victus\source\repos\GhtkApi\Ghtk.Authorization\obj\Debug\net10.0\Ghtk.A
 C:\Users\Victus\source\repos\GhtkApi\Ghtk.Authorization\obj\Debug\net10.0\refint\Ghtk.Authorization.dll
 C:\Users\Victus\source\repos\GhtkApi\Ghtk.Authorization\obj\Debug\net10.0\Ghtk.Authorization.pdb
 C:\Users\Victus\source\repos\GhtkApi\Ghtk.Authorization\obj\Debug\net10.0\ref\Ghtk.Authorization.dll
+C:\Users\Victus\source\repos\GhtkApi\Ghtk.Authorization\obj\Debug\net10.0\Ghtk.Authorization.sourcelink.json

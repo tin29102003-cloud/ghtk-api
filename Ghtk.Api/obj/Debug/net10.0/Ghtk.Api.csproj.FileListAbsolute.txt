@@ -32,3 +32,9 @@ C:\Users\Victus\source\repos\GhtkApi\Ghtk.Api\obj\Debug\net10.0\refint\Ghtk.Api.
 C:\Users\Victus\source\repos\GhtkApi\Ghtk.Api\obj\Debug\net10.0\Ghtk.Api.pdb
 C:\Users\Victus\source\repos\GhtkApi\Ghtk.Api\obj\Debug\net10.0\Ghtk.Api.genruntimeconfig.cache
 C:\Users\Victus\source\repos\GhtkApi\Ghtk.Api\obj\Debug\net10.0\ref\Ghtk.Api.dll
+C:\Users\Victus\source\repos\GhtkApi\Ghtk.Api\obj\Debug\net10.0\Ghtk.Api.sourcelink.json
+C:\Users\Victus\source\repos\GhtkApi\Ghtk.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Victus\source\repos\GhtkApi\Ghtk.Api\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Victus\source\repos\GhtkApi\Ghtk.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Victus\source\repos\GhtkApi\Ghtk.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Victus\source\repos\GhtkApi\Ghtk.Api\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
