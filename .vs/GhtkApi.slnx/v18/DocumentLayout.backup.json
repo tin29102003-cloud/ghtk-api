@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\Victus\\source\\repos\\GhtkApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F4534AAF-5A01-49DA-B2D0-B3D591E9DCB2}|Ghtk.Api\\Ghtk.Api.csproj|c:\\users\\victus\\source\\repos\\ghtkapi\\ghtk.api\\controllers\\shipmentservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4534AAF-5A01-49DA-B2D0-B3D591E9DCB2}|Ghtk.Api\\Ghtk.Api.csproj|solutionrelative:ghtk.api\\controllers\\shipmentservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB865E1-9B54-4D82-8C43-F1E7AA05794E}|ClientAuthertication.Api\\ClientAuthertication.Api.csproj|c:\\users\\victus\\source\\repos\\ghtkapi\\clientauthertication.api\\controllers\\clientsourcecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB865E1-9B54-4D82-8C43-F1E7AA05794E}|ClientAuthertication.Api\\ClientAuthertication.Api.csproj|solutionrelative:clientauthertication.api\\controllers\\clientsourcecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4534AAF-5A01-49DA-B2D0-B3D591E9DCB2}|Ghtk.Api\\Ghtk.Api.csproj|c:\\users\\victus\\source\\repos\\ghtkapi\\ghtk.api\\models\\getorderstatusresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4534AAF-5A01-49DA-B2D0-B3D591E9DCB2}|Ghtk.Api\\Ghtk.Api.csproj|solutionrelative:ghtk.api\\models\\getorderstatusresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4534AAF-5A01-49DA-B2D0-B3D591E9DCB2}|Ghtk.Api\\Ghtk.Api.csproj|c:\\users\\victus\\source\\repos\\ghtkapi\\ghtk.api\\models\\submitorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4534AAF-5A01-49DA-B2D0-B3D591E9DCB2}|Ghtk.Api\\Ghtk.Api.csproj|solutionrelative:ghtk.api\\models\\submitorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4534AAF-5A01-49DA-B2D0-B3D591E9DCB2}|Ghtk.Api\\Ghtk.Api.csproj|c:\\users\\victus\\source\\repos\\ghtkapi\\ghtk.api\\models\\submitorderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4534AAF-5A01-49DA-B2D0-B3D591E9DCB2}|Ghtk.Api\\Ghtk.Api.csproj|solutionrelative:ghtk.api\\models\\submitorderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4534AAF-5A01-49DA-B2D0-B3D591E9DCB2}|Ghtk.Api\\Ghtk.Api.csproj|c:\\users\\victus\\source\\repos\\ghtkapi\\ghtk.api\\models\\apiresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4534AAF-5A01-49DA-B2D0-B3D591E9DCB2}|Ghtk.Api\\Ghtk.Api.csproj|solutionrelative:ghtk.api\\models\\apiresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BD156A-1715-4531-835F-9D2C36C6075D}|Ghtk.Authorization\\Ghtk.Authorization.csproj|c:\\users\\victus\\source\\repos\\ghtkapi\\ghtk.authorization\\ghtk.authorization.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{44BD156A-1715-4531-835F-9D2C36C6075D}|Ghtk.Authorization\\Ghtk.Authorization.csproj|solutionrelative:ghtk.authorization\\ghtk.authorization.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F4534AAF-5A01-49DA-B2D0-B3D591E9DCB2}|Ghtk.Api\\Ghtk.Api.csproj|c:\\users\\victus\\source\\repos\\ghtkapi\\ghtk.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4534AAF-5A01-49DA-B2D0-B3D591E9DCB2}|Ghtk.Api\\Ghtk.Api.csproj|solutionrelative:ghtk.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,32 +39,20 @@
       "RelativeMoniker": "D:0:0:{F4534AAF-5A01-49DA-B2D0-B3D591E9DCB2}|Ghtk.Api\\Ghtk.Api.csproj|solutionrelative:ghtk.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4534AAF-5A01-49DA-B2D0-B3D591E9DCB2}|Ghtk.Api\\Ghtk.Api.csproj|c:\\users\\victus\\source\\repos\\ghtkapi\\ghtk.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F4534AAF-5A01-49DA-B2D0-B3D591E9DCB2}|Ghtk.Api\\Ghtk.Api.csproj|solutionrelative:ghtk.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4534AAF-5A01-49DA-B2D0-B3D591E9DCB2}|Ghtk.Api\\Ghtk.Api.csproj|c:\\users\\victus\\source\\repos\\ghtkapi\\ghtk.api\\authenticationhanler\\remoteauthenticationhanler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4534AAF-5A01-49DA-B2D0-B3D591E9DCB2}|Ghtk.Api\\Ghtk.Api.csproj|solutionrelative:ghtk.api\\authenticationhanler\\remoteauthenticationhanler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44BD156A-1715-4531-835F-9D2C36C6075D}|Ghtk.Authorization\\Ghtk.Authorization.csproj|c:\\users\\victus\\source\\repos\\ghtkapi\\ghtk.authorization\\xclientautheticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BD156A-1715-4531-835F-9D2C36C6075D}|Ghtk.Authorization\\Ghtk.Authorization.csproj|solutionrelative:ghtk.authorization\\xclientautheticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6DAA2C77-9F92-41AA-909B-8EB2D1A1DB16}|ClientAuthertication\\ClientAuthertication.csproj|c:\\users\\victus\\source\\repos\\ghtkapi\\clientauthertication\\sqlserverclientsourceauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DAA2C77-9F92-41AA-909B-8EB2D1A1DB16}|ClientAuthertication\\ClientAuthertication.csproj|solutionrelative:clientauthertication\\sqlserverclientsourceauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDB865E1-9B54-4D82-8C43-F1E7AA05794E}|ClientAuthertication.Api\\ClientAuthertication.Api.csproj|c:\\users\\victus\\source\\repos\\ghtkapi\\clientauthertication.api\\controllers\\clientsourcecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDB865E1-9B54-4D82-8C43-F1E7AA05794E}|ClientAuthertication.Api\\ClientAuthertication.Api.csproj|solutionrelative:clientauthertication.api\\controllers\\clientsourcecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6DAA2C77-9F92-41AA-909B-8EB2D1A1DB16}|ClientAuthertication\\ClientAuthertication.csproj|c:\\users\\victus\\source\\repos\\ghtkapi\\clientauthertication\\iclientsourceauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DAA2C77-9F92-41AA-909B-8EB2D1A1DB16}|ClientAuthertication\\ClientAuthertication.csproj|solutionrelative:clientauthertication\\iclientsourceauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDB865E1-9B54-4D82-8C43-F1E7AA05794E}|ClientAuthertication.Api\\ClientAuthertication.Api.csproj|c:\\users\\victus\\source\\repos\\ghtkapi\\clientauthertication.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDB865E1-9B54-4D82-8C43-F1E7AA05794E}|ClientAuthertication.Api\\ClientAuthertication.Api.csproj|solutionrelative:clientauthertication.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44BD156A-1715-4531-835F-9D2C36C6075D}|Ghtk.Authorization\\Ghtk.Authorization.csproj|c:\\users\\victus\\source\\repos\\ghtkapi\\ghtk.authorization\\xclientautheticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44BD156A-1715-4531-835F-9D2C36C6075D}|Ghtk.Authorization\\Ghtk.Authorization.csproj|solutionrelative:ghtk.authorization\\xclientautheticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F4534AAF-5A01-49DA-B2D0-B3D591E9DCB2}|Ghtk.Api\\Ghtk.Api.csproj|c:\\users\\victus\\source\\repos\\ghtkapi\\ghtk.api\\authenticationhanler\\remoteauthenticationhanler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4534AAF-5A01-49DA-B2D0-B3D591E9DCB2}|Ghtk.Api\\Ghtk.Api.csproj|solutionrelative:ghtk.api\\authenticationhanler\\remoteauthenticationhanler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{44BD156A-1715-4531-835F-9D2C36C6075D}|Ghtk.Authorization\\Ghtk.Authorization.csproj|c:\\users\\victus\\source\\repos\\ghtkapi\\ghtk.authorization\\xclientautheticationhandleroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,16 +63,16 @@
       "RelativeMoniker": "D:0:0:{F4534AAF-5A01-49DA-B2D0-B3D591E9DCB2}|Ghtk.Api\\Ghtk.Api.csproj|solutionrelative:ghtk.api\\xclientautheticationhandlerextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4534AAF-5A01-49DA-B2D0-B3D591E9DCB2}|Ghtk.Api\\Ghtk.Api.csproj|c:\\users\\victus\\source\\repos\\ghtkapi\\ghtk.api\\controllers\\shipmentservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4534AAF-5A01-49DA-B2D0-B3D591E9DCB2}|Ghtk.Api\\Ghtk.Api.csproj|solutionrelative:ghtk.api\\controllers\\shipmentservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FDB865E1-9B54-4D82-8C43-F1E7AA05794E}|ClientAuthertication.Api\\ClientAuthertication.Api.csproj|c:\\users\\victus\\source\\repos\\ghtkapi\\clientauthertication.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB865E1-9B54-4D82-8C43-F1E7AA05794E}|ClientAuthertication.Api\\ClientAuthertication.Api.csproj|solutionrelative:clientauthertication.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4534AAF-5A01-49DA-B2D0-B3D591E9DCB2}|Ghtk.Api\\Ghtk.Api.csproj|c:\\users\\victus\\source\\repos\\ghtkapi\\ghtk.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F4534AAF-5A01-49DA-B2D0-B3D591E9DCB2}|Ghtk.Api\\Ghtk.Api.csproj|solutionrelative:ghtk.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FDB865E1-9B54-4D82-8C43-F1E7AA05794E}|ClientAuthertication.Api\\ClientAuthertication.Api.csproj|c:\\users\\victus\\source\\repos\\ghtkapi\\clientauthertication.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{FDB865E1-9B54-4D82-8C43-F1E7AA05794E}|ClientAuthertication.Api\\ClientAuthertication.Api.csproj|solutionrelative:clientauthertication.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44BD156A-1715-4531-835F-9D2C36C6075D}|Ghtk.Authorization\\Ghtk.Authorization.csproj|c:\\users\\victus\\source\\repos\\ghtkapi\\ghtk.authorization\\ghtk.authorization.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{44BD156A-1715-4531-835F-9D2C36C6075D}|Ghtk.Authorization\\Ghtk.Authorization.csproj|solutionrelative:ghtk.authorization\\ghtk.authorization.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\10.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
@@ -75,10 +91,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F4534AAF-5A01-49DA-B2D0-B3D591E9DCB2}|Ghtk.Api\\Ghtk.Api.csproj|c:\\users\\victus\\source\\repos\\ghtkapi\\ghtk.api\\ghtk.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{F4534AAF-5A01-49DA-B2D0-B3D591E9DCB2}|Ghtk.Api\\Ghtk.Api.csproj|solutionrelative:ghtk.api\\ghtk.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4534AAF-5A01-49DA-B2D0-B3D591E9DCB2}|Ghtk.Api\\Ghtk.Api.csproj|c:\\users\\victus\\source\\repos\\ghtkapi\\ghtk.api\\models\\createorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4534AAF-5A01-49DA-B2D0-B3D591E9DCB2}|Ghtk.Api\\Ghtk.Api.csproj|solutionrelative:ghtk.api\\models\\createorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -97,6 +109,107 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ClientSourceController.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\GhtkApi\\ClientAuthertication.Api\\Controllers\\ClientSourceController.cs",
+              "RelativeDocumentMoniker": "ClientAuthertication.Api\\Controllers\\ClientSourceController.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\GhtkApi\\ClientAuthertication.Api\\Controllers\\ClientSourceController.cs",
+              "RelativeToolTip": "ClientAuthertication.Api\\Controllers\\ClientSourceController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T13:56:54.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShipmentServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\GhtkApi\\Ghtk.Api\\Controllers\\ShipmentServiceController.cs",
+              "RelativeDocumentMoniker": "Ghtk.Api\\Controllers\\ShipmentServiceController.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\GhtkApi\\Ghtk.Api\\Controllers\\ShipmentServiceController.cs*",
+              "RelativeToolTip": "Ghtk.Api\\Controllers\\ShipmentServiceController.cs*",
+              "ViewState": "AgIAADQAAAAAAAAAAAAowD4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T17:26:36.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetOrderStatusResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\GhtkApi\\Ghtk.Api\\Models\\GetOrderStatusResponse.cs",
+              "RelativeDocumentMoniker": "Ghtk.Api\\Models\\GetOrderStatusResponse.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\GhtkApi\\Ghtk.Api\\Models\\GetOrderStatusResponse.cs*",
+              "RelativeToolTip": "Ghtk.Api\\Models\\GetOrderStatusResponse.cs*",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAgwAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T12:50:15.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SubmitOrderResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\GhtkApi\\Ghtk.Api\\Models\\SubmitOrderResponse.cs",
+              "RelativeDocumentMoniker": "Ghtk.Api\\Models\\SubmitOrderResponse.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\GhtkApi\\Ghtk.Api\\Models\\SubmitOrderResponse.cs",
+              "RelativeToolTip": "Ghtk.Api\\Models\\SubmitOrderResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T12:00:52.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SubmitOrderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\GhtkApi\\Ghtk.Api\\Models\\SubmitOrderRequest.cs",
+              "RelativeDocumentMoniker": "Ghtk.Api\\Models\\SubmitOrderRequest.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\GhtkApi\\Ghtk.Api\\Models\\SubmitOrderRequest.cs",
+              "RelativeToolTip": "Ghtk.Api\\Models\\SubmitOrderRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T17:30:05.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApiResult.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\GhtkApi\\Ghtk.Api\\Models\\ApiResult.cs",
+              "RelativeDocumentMoniker": "Ghtk.Api\\Models\\ApiResult.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\GhtkApi\\Ghtk.Api\\Models\\ApiResult.cs",
+              "RelativeToolTip": "Ghtk.Api\\Models\\ApiResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T12:10:41.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\GhtkApi\\Ghtk.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Ghtk.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\GhtkApi\\Ghtk.Api\\Program.cs",
+              "RelativeToolTip": "Ghtk.Api\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA+wBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T14:17:29.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ghtk.Authorization.csproj",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\GhtkApi\\Ghtk.Authorization\\Ghtk.Authorization.csproj",
+              "RelativeDocumentMoniker": "Ghtk.Authorization\\Ghtk.Authorization.csproj",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\GhtkApi\\Ghtk.Authorization\\Ghtk.Authorization.csproj",
+              "RelativeToolTip": "Ghtk.Authorization\\Ghtk.Authorization.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-25T15:24:29.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\GhtkApi\\Ghtk.Api\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Ghtk.Api\\appsettings.Development.json",
@@ -104,90 +217,83 @@
               "RelativeToolTip": "Ghtk.Api\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-26T09:41:27.018Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-26T09:41:27.018Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\GhtkApi\\Ghtk.Api\\Program.cs",
-              "RelativeDocumentMoniker": "Ghtk.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\Victus\\source\\repos\\GhtkApi\\Ghtk.Api\\Program.cs",
-              "RelativeToolTip": "Ghtk.Api\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "XClientAutheticationHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\GhtkApi\\Ghtk.Authorization\\XClientAutheticationHandler.cs",
+              "RelativeDocumentMoniker": "Ghtk.Authorization\\XClientAutheticationHandler.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\GhtkApi\\Ghtk.Authorization\\XClientAutheticationHandler.cs",
+              "RelativeToolTip": "Ghtk.Authorization\\XClientAutheticationHandler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAArwBsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-25T14:17:29.985Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-25T13:20:13.796Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\GhtkApi\\Ghtk.Api\\appsettings.json",
-              "RelativeDocumentMoniker": "Ghtk.Api\\appsettings.json",
-              "ToolTip": "C:\\Users\\Victus\\source\\repos\\GhtkApi\\Ghtk.Api\\appsettings.json",
-              "RelativeToolTip": "Ghtk.Api\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-24T17:35:56.855Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RemoteAuthenticationHanler.cs",
-              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\GhtkApi\\Ghtk.Api\\AuthenticationHanler\\RemoteAuthenticationHanler.cs",
-              "RelativeDocumentMoniker": "Ghtk.Api\\AuthenticationHanler\\RemoteAuthenticationHanler.cs",
-              "ToolTip": "C:\\Users\\Victus\\source\\repos\\GhtkApi\\Ghtk.Api\\AuthenticationHanler\\RemoteAuthenticationHanler.cs",
-              "RelativeToolTip": "Ghtk.Api\\AuthenticationHanler\\RemoteAuthenticationHanler.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-26T14:13:53.273Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "SqlServerClientSourceAuthenticationHandler.cs",
               "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\GhtkApi\\ClientAuthertication\\SqlServerClientSourceAuthenticationHandler.cs",
               "RelativeDocumentMoniker": "ClientAuthertication\\SqlServerClientSourceAuthenticationHandler.cs",
               "ToolTip": "C:\\Users\\Victus\\source\\repos\\GhtkApi\\ClientAuthertication\\SqlServerClientSourceAuthenticationHandler.cs",
               "RelativeToolTip": "ClientAuthertication\\SqlServerClientSourceAuthenticationHandler.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAmwCcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAjwB4AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-26T12:47:26.332Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-26T12:47:26.332Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ClientSourceController.cs",
-              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\GhtkApi\\ClientAuthertication.Api\\Controllers\\ClientSourceController.cs",
-              "RelativeDocumentMoniker": "ClientAuthertication.Api\\Controllers\\ClientSourceController.cs",
-              "ToolTip": "C:\\Users\\Victus\\source\\repos\\GhtkApi\\ClientAuthertication.Api\\Controllers\\ClientSourceController.cs",
-              "RelativeToolTip": "ClientAuthertication.Api\\Controllers\\ClientSourceController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-26T13:56:54.958Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "IClientSourceAuthenticationHandler.cs",
               "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\GhtkApi\\ClientAuthertication\\IClientSourceAuthenticationHandler.cs",
               "RelativeDocumentMoniker": "ClientAuthertication\\IClientSourceAuthenticationHandler.cs",
               "ToolTip": "C:\\Users\\Victus\\source\\repos\\GhtkApi\\ClientAuthertication\\IClientSourceAuthenticationHandler.cs",
               "RelativeToolTip": "ClientAuthertication\\IClientSourceAuthenticationHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-26T12:45:20.342Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-26T12:45:20.342Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
+              "Title": "RemoteAuthenticationHanler.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\GhtkApi\\Ghtk.Api\\AuthenticationHanler\\RemoteAuthenticationHanler.cs",
+              "RelativeDocumentMoniker": "Ghtk.Api\\AuthenticationHanler\\RemoteAuthenticationHanler.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\GhtkApi\\Ghtk.Api\\AuthenticationHanler\\RemoteAuthenticationHanler.cs",
+              "RelativeToolTip": "Ghtk.Api\\AuthenticationHanler\\RemoteAuthenticationHanler.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAzwBMAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T14:13:53.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "XClientAutheticationHandlerOptions.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\GhtkApi\\Ghtk.Authorization\\XClientAutheticationHandlerOptions.cs",
+              "RelativeDocumentMoniker": "Ghtk.Authorization\\XClientAutheticationHandlerOptions.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\GhtkApi\\Ghtk.Authorization\\XClientAutheticationHandlerOptions.cs",
+              "RelativeToolTip": "Ghtk.Authorization\\XClientAutheticationHandlerOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T15:24:14.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "XClientAutheticationHandlerExtention.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\GhtkApi\\Ghtk.Api\\XClientAutheticationHandlerExtention.cs",
+              "RelativeDocumentMoniker": "Ghtk.Api\\XClientAutheticationHandlerExtention.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\GhtkApi\\Ghtk.Api\\XClientAutheticationHandlerExtention.cs",
+              "RelativeToolTip": "Ghtk.Api\\XClientAutheticationHandlerExtention.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T14:19:08.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\GhtkApi\\ClientAuthertication.Api\\Program.cs",
               "RelativeDocumentMoniker": "ClientAuthertication.Api\\Program.cs",
@@ -195,64 +301,23 @@
               "RelativeToolTip": "ClientAuthertication.Api\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-26T13:58:54.69Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-26T13:58:54.69Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "XClientAutheticationHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\GhtkApi\\Ghtk.Authorization\\XClientAutheticationHandler.cs",
-              "RelativeDocumentMoniker": "Ghtk.Authorization\\XClientAutheticationHandler.cs",
-              "ToolTip": "C:\\Users\\Victus\\source\\repos\\GhtkApi\\Ghtk.Authorization\\XClientAutheticationHandler.cs",
-              "RelativeToolTip": "Ghtk.Authorization\\XClientAutheticationHandler.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAmwEcAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-25T13:20:13.796Z",
-              "EditorCaption": ""
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\GhtkApi\\Ghtk.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Ghtk.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\GhtkApi\\Ghtk.Api\\appsettings.json",
+              "RelativeToolTip": "Ghtk.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-24T17:35:56.855Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "XClientAutheticationHandlerOptions.cs",
-              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\GhtkApi\\Ghtk.Authorization\\XClientAutheticationHandlerOptions.cs",
-              "RelativeDocumentMoniker": "Ghtk.Authorization\\XClientAutheticationHandlerOptions.cs",
-              "ToolTip": "C:\\Users\\Victus\\source\\repos\\GhtkApi\\Ghtk.Authorization\\XClientAutheticationHandlerOptions.cs",
-              "RelativeToolTip": "Ghtk.Authorization\\XClientAutheticationHandlerOptions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-25T15:24:14.24Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "XClientAutheticationHandlerExtention.cs",
-              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\GhtkApi\\Ghtk.Api\\XClientAutheticationHandlerExtention.cs",
-              "RelativeDocumentMoniker": "Ghtk.Api\\XClientAutheticationHandlerExtention.cs",
-              "ToolTip": "C:\\Users\\Victus\\source\\repos\\GhtkApi\\Ghtk.Api\\XClientAutheticationHandlerExtention.cs",
-              "RelativeToolTip": "Ghtk.Api\\XClientAutheticationHandlerExtention.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-25T14:19:08.482Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ShipmentServiceController.cs",
-              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\GhtkApi\\Ghtk.Api\\Controllers\\ShipmentServiceController.cs",
-              "RelativeDocumentMoniker": "Ghtk.Api\\Controllers\\ShipmentServiceController.cs",
-              "ToolTip": "C:\\Users\\Victus\\source\\repos\\GhtkApi\\Ghtk.Api\\Controllers\\ShipmentServiceController.cs",
-              "RelativeToolTip": "Ghtk.Api\\Controllers\\ShipmentServiceController.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAlwA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T17:26:36.185Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\GhtkApi\\ClientAuthertication.Api\\appsettings.Development.json",
               "RelativeDocumentMoniker": "ClientAuthertication.Api\\appsettings.Development.json",
@@ -260,25 +325,11 @@
               "RelativeToolTip": "ClientAuthertication.Api\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-26T13:55:18.969Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-26T13:55:18.969Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Ghtk.Authorization.csproj",
-              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\GhtkApi\\Ghtk.Authorization\\Ghtk.Authorization.csproj",
-              "RelativeDocumentMoniker": "Ghtk.Authorization\\Ghtk.Authorization.csproj",
-              "ToolTip": "C:\\Users\\Victus\\source\\repos\\GhtkApi\\Ghtk.Authorization\\Ghtk.Authorization.csproj",
-              "RelativeToolTip": "Ghtk.Authorization\\Ghtk.Authorization.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-25T15:24:29.735Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "Microsoft.PackageDependencyResolution.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\10.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\10.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
@@ -286,12 +337,11 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\10.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
               "ViewState": "AgIAAAwAAAAAAAAAAAAgwAkBAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2026-04-26T08:37:41.533Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-26T08:37:41.533Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\10.0.102\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\10.0.102\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
@@ -299,12 +349,11 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\10.0.102\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
               "ViewState": "AgIAACIAAAAAAAAAAAAmwDIAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2026-04-25T15:24:56.249Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-25T15:24:56.249Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "Ghtk.Api.csproj",
               "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\GhtkApi\\Ghtk.Api\\Ghtk.Api.csproj",
               "RelativeDocumentMoniker": "Ghtk.Api\\Ghtk.Api.csproj",
@@ -312,12 +361,11 @@
               "RelativeToolTip": "Ghtk.Api\\Ghtk.Api.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-25T14:44:55.527Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-25T14:44:55.527Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\GhtkApi\\Ghtk.Api\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Ghtk.Api\\Properties\\launchSettings.json",
@@ -325,12 +373,11 @@
               "RelativeToolTip": "Ghtk.Api\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-24T17:36:20.804Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T17:36:20.804Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "Ghtk.Api.http",
               "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\GhtkApi\\Ghtk.Api\\Ghtk.Api.http",
               "RelativeDocumentMoniker": "Ghtk.Api\\Ghtk.Api.http",
@@ -338,21 +385,7 @@
               "RelativeToolTip": "Ghtk.Api\\Ghtk.Api.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2026-04-24T17:30:51.368Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "CreateOrder.cs",
-              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\GhtkApi\\Ghtk.Api\\Models\\CreateOrder.cs",
-              "RelativeDocumentMoniker": "Ghtk.Api\\Models\\CreateOrder.cs",
-              "ToolTip": "C:\\Users\\Victus\\source\\repos\\GhtkApi\\Ghtk.Api\\Models\\CreateOrder.cs",
-              "RelativeToolTip": "Ghtk.Api\\Models\\CreateOrder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T17:30:05.672Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T17:30:51.368Z"
             }
           ]
         }
