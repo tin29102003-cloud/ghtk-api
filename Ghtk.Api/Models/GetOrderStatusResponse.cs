@@ -3,21 +3,21 @@
     using System;
     using System.Text.Json.Serialization;
 
-    public partial class GetOrderStatusResponse: ApiResult
+    public  class GetOrderStatusResponse: ApiResult
     {
   
         [JsonPropertyName("order")]
         public Order? Order { get; set; } 
     }
 
-    public partial class Order
+    public  class Order
     {
         [JsonPropertyName("label_id")]
         public required string LabelId { get; set; }  
 
         [JsonPropertyName("partner_id")]
 
-        public int PartnerId { get; set; }
+        public string PartnerId { get; set; } = default!;
 
         [JsonPropertyName("status")]
        
@@ -33,7 +33,7 @@
         public DateTimeOffset Modified { get; set; }
 
         [JsonPropertyName("message")]
-        public string Message { get; set; }
+        public string? Message { get; set; } 
 
         [JsonPropertyName("pick_date")]
         public DateTimeOffset PickDate { get; set; }

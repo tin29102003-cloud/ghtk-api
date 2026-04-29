@@ -7,8 +7,14 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="MongoDB.Driver" Version="3.8.0" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\ClientAuthertication\ClientAuthertication.csproj" />
     <ProjectReference Include="..\Ghtk.Authorization\Ghtk.Authorization.csproj" />
+    <ProjectReference Include="..\Ghtk.Repository.Abstractions\Ghtk.Repository.Abstractions.csproj" />
+    <ProjectReference Include="..\Ghtk.Repository.MongoDb\Ghtk.Repository.MongoDb.csproj" />
   </ItemGroup>
 
   <ItemGroup>

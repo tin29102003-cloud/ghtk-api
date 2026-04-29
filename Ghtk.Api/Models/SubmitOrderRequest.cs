@@ -10,7 +10,7 @@ using System.Globalization;
 public partial class SubmitOrderRequest
 {
     [JsonPropertyName("products")]
-    public Product[] Products { get; set; } = default!;
+    public ProductOrder[] Products { get; set; } 
 
     [JsonPropertyName("order")]
     public SubmitOrderRequestOrder Order { get; set; } = default!;
@@ -68,13 +68,13 @@ public partial class SubmitOrderRequestOrder
     public DateTimeOffset PickDate { get; set; }
 
     [JsonPropertyName("pick_money")]
-    public long PickMoney { get; set; }
+    public int PickMoney { get; set; }
 
     [JsonPropertyName("note")]
     public string? Note { get; set; }
 
     [JsonPropertyName("value")]
-    public long Value { get; set; }
+    public int Value { get; set; }
 
     [JsonPropertyName("transport")]
     public string? Transport { get; set; }
@@ -83,16 +83,16 @@ public partial class SubmitOrderRequestOrder
     public string? PickOption { get; set; }
 
     [JsonPropertyName("gam_solutions")]
-    public GamSolution[] GamSolutions { get; set; } = default!;
+    public GamSolutionOrder[] GamSolutions { get; set; } = default!;
 }
 
-public partial class GamSolution
+public  class GamSolutionOrder
 {
     [JsonPropertyName("solution_id")]
     public long SolutionId { get; set; }
 }
 
-public partial class Product
+public  class ProductOrder
 {
     [JsonPropertyName("name")]
     public string? Name { get; set; }

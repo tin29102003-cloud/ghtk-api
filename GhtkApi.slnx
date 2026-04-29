@@ -3,4 +3,6 @@
   <Project Path="ClientAuthertication/ClientAuthertication.csproj" Id="6daa2c77-9f92-41aa-909b-8eb2d1a1db16" />
   <Project Path="Ghtk.Api/Ghtk.Api.csproj" Id="f4534aaf-5a01-49da-b2d0-b3d591e9dcb2" />
   <Project Path="Ghtk.Authorization/Ghtk.Authorization.csproj" Id="44bd156a-1715-4531-835f-9d2c36c6075d" />
+  <Project Path="Ghtk.Repository.Abstractions/Ghtk.Repository.Abstractions.csproj" Id="b88db4a2-be68-4cf0-8047-259b40d0f709" />
+  <Project Path="Ghtk.Repository.MongoDb/Ghtk.Repository.MongoDb.csproj" Id="f6985a3c-6e4a-4446-9717-5c1418257c12" />
 </Solution>

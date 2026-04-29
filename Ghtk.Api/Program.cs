@@ -1,5 +1,9 @@
 ﻿using ClientAuthertication;
 using Ghtk.Api.AuthenticationHanler;
+using Ghtk.Api.Bootstraping;
+using Ghtk.Repository.Abstractions;
+using Ghtk.Repository.MongoDb;
+using MongoDB.Driver;
 
 
 namespace Ghtk.Api
@@ -20,6 +24,14 @@ namespace Ghtk.Api
             {
                 options.ClientValidator = (clientSource, token, principle) =>  clientSourceAuthenticationHandler.Validate(clientSource); //cấu hình ClientSourceValidator để xác thực giá trị của header X-Client-Source, ví dụ ở đây chỉ chấp nhận giá trị "trusted-client"
                 options.IsseuerSigningKey = builder.Configuration["IsseuerSigningKey"] ?? "";
+            });
+            //đang ký connectiong string cho sql server để xác thực client source
+            builder.Services.AddMongoDbClient(builder.Configuration);
+            builder.Services.AddScoped<IOrderRepository>(service =>
+            {
+                var mongoClient = service.GetRequiredService<MongoClient>();
+
+                return new MongoDbOrderRepository(mongoClient);
             });
             var app = builder.Build();
 

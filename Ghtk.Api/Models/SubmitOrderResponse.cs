@@ -36,7 +36,7 @@
         public double InsuranceFee { get; set; }
 
         [JsonPropertyName("tracking_id")]
-        public long TrackingId { get; set; }
+        public  required string TrackingId { get; set; }
 
         [JsonPropertyName("estimated_pick_time")]
         public string EstimatedPickTime { get; set; } = default!;
@@ -45,7 +45,7 @@
         public string EstimatedDeliverTime { get; set; } = default!;
 
         [JsonPropertyName("products")]
-        public Product[] Products { get; set; } = [];
+        public ProductOrder[] Products { get; set; } = [];
 
         [JsonPropertyName("status_id")]
         public long StatusId { get; set; }
